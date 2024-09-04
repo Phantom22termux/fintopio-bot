@@ -1,10 +1,3 @@
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
+aiohttp==3.8.1
+colorama==0.4.4
+python-dateutil==2.8.2
