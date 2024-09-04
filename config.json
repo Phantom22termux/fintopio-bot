@@ -1,10 +1,6 @@
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
-STAY TUNED ON https://t.me/Deeplchain
+{
+    "auto_break_asteroid": true,
+    "auto_complete_task": true,
+    "account_delay": 5,
+    "data_file": "data.txt"
+}
